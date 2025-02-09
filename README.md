@@ -27,7 +27,7 @@
 BanNERD is the most extensive human-annotated and validated **Bangla Named Entity Recognition** Dataset to date. With 85,175 meticulously annotated sentences spanning 29 diverse domains, BanNERD sets a new standard for Bangla NER research. The dataset achieved a high Inter-Annotator Agreement (IAA) score of 0.88, demonstrating its exceptional quality and reliability.
 
 This dataset is based on the paper:<br>
-```BanNERD: A Benchmark Dataset and Context-Driven Approach for Bangla Named Entity Recognition``` accepted at NACCL 2025 findings.
+```BanNERD: A Benchmark Dataset and Context-Driven Approach for Bangla Named Entity Recognition``` accepted at NAACL 2025 findings.
 
 ### Key Features
 
